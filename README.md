@@ -1,4 +1,4 @@
-## Fazendo notificações em um aplicativo flutter utilizando o firebase e o package firebase_messaging (Firebase Cloud Messaging for Flutter )
+## Recebendo notificações em um aplicativo flutter utilizando o firebase e o package firebase_messaging (Firebase Cloud Messaging for Flutter )
 
 1. Crie um projeto no seu [console do firebase](https://console.firebase.google.com/u/0/) e adicione um Android App ao seu projeto e configure o seu aplicativo de acordo com os passos a passos do firebase.
 
