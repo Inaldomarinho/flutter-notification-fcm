@@ -21,7 +21,7 @@ dependencies:
 4. Faça o listening de notificações (pode usar como base o [lib/main.dart](/lib/main.dart) que tem o código comentado) e faça as ações necessárias de acordo com a sua necessidade.
 
 
-obs: caso queira implementar para IOS é necessário alguns passos mais que se encontram na [documentação do firebase_messaging](https://pub.dev/packages/firebase_messaging).
+obs: caso queira implementar para IoS é necessário alguns passos mais que se encontram na [documentação do firebase_messaging](https://pub.dev/packages/firebase_messaging).
 
 Para obter ajuda sobre como iniciar o Flutter, consulte a documentação online
 [clicando aqui](https://flutter.dev/docs), que oferece tutoriais, 
